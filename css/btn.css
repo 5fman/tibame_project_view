@@ -1,0 +1,29 @@
+/* btn - 橘色背景 */
+.btn-custom-orange {
+    background-color: #fa9213; /* 橘色背景 */
+    color: #FFF; /* 白色文字 */
+    border: none; /* 移除邊框 */
+    padding: 10px 20px; /* 設定內部間距 */
+    border-radius: 25px; /* 設定圓角 */
+    transition: background-color 0.3s, color 0.3s; /* 平滑過渡效果 */
+}
+
+.btn-custom-orange:hover {
+    background-color: #ce6519; /* 深橘色背景 */
+    color: #E0E0E0; /* 淺灰色文字 */
+}
+
+/* btn - 藍色背景 */
+.btn-custom-blue {
+    background-color: #3d3deac5; /* 藍色背景 */
+    color: #FFF; /* 白色文字 */
+    border: none; /* 移除邊框 */
+    padding: 10px 20px; /* 設定內部間距 */
+    border-radius: 25px; /* 設定圓角 */
+    transition: background-color 0.3s, color 0.3s; /* 平滑過渡效果 */
+}
+
+.btn-custom-blue:hover {
+    background-color: #1c1ca9; /* 深藍色背景 */
+    color: #E0E0E0; /* 淺灰色文字 */
+}
